@@ -3,6 +3,7 @@
 
 Entry for make.fun's "Worst Fix Ever: Funniest Commit Message": Reads exactly like a plain, tired commit subject, and the irony is specific to a repair: the 'fix' deleted a mere comment and the comment turned out to be load-bearing - a fresh angle away from the worn revert and test-in-production jokes.
 Deterministic: a fixed text, no network, no randomness, no clock.
+This is a make.fun sprint entry.
 """
 import os
 from pathlib import Path

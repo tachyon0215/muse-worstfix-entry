@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Note: entry text is fixed and deterministic.
 """Write the entry text to entry.txt.
 
 Entry for make.fun's "Worst Fix Ever: Funniest Commit Message": Reads exactly like a plain, tired commit subject, and the irony is specific to a repair: the 'fix' deleted a mere comment and the comment turned out to be load-bearing - a fresh angle away from the worn revert and test-in-production jokes.
